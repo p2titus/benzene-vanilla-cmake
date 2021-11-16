@@ -1,2 +1,5 @@
 build/*
 *.pyc
+
+doc/benzene-doc/*
+doc/hex.tags
